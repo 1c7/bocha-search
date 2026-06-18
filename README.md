@@ -29,9 +29,10 @@ export BOCHA_API_KEY="your-api-key"
 
 
 ## 重要声明
-1. 本仓库的 bocha-search skill 不是官方发布的，官方在 https://github.com/BochaAI  
-截止至 2026 年 6 月 18 号，官方尚未发布 Skill，所以我花 5 分钟做了这个 Skill。   
+1. 本仓库的 bocha-search skill 是第三方开发的。不是官方开发的，  
+官方的 Github 组织是 https://github.com/BochaAI    
+截止至 2026 年 6 月 18 号，官方尚未发布 Skill。    
 
 2. 我的目的是：方便在 Claude Code 里面使用博查进行搜索。
 
-3。本 Skill 基于 [博查官方开发文档](https://bocha-ai.feishu.cn/wiki/HmtOw1z6vik14Fkdu5uc9VaInBb)
+3. 本 Skill 基于 [博查官方开发文档](https://bocha-ai.feishu.cn/wiki/HmtOw1z6vik14Fkdu5uc9VaInBb)
