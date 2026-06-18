@@ -3,15 +3,13 @@
 这是符合 [Agent Skill](https://agentskills.io/home) 规范的 "博查搜索 Skill"。
 用途：使用 [博查开放平台](https://open.bocha.cn) 提供的 "搜索 API"    
 
-## 安装
-
+## 安装方法
+运行命令： 
 ```bash
 npx skills add 1c7/bocha-search
 ```
 
-或手动把本仓库克隆到你的 agent skills 目录。
-
-## 需要
+## 使用 Skill 前的必做事情
 
 在 https://open.bocha.cn 注册后获取 API KEY，设置环境变量：
 
