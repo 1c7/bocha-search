@@ -1,6 +1,7 @@
 # 博查搜索 Skill
 
-给 AI 用的 "博查搜索 Skill"，基于[博查开放平台](https://open.bocha.cn) API。  
+这是符合 [Agent Skill](https://agentskills.io/home) 规范的 "博查搜索 Skill"。
+用途：使用 [博查开放平台](https://open.bocha.cn) 提供的 "搜索 API"    
 
 ## 安装
 
