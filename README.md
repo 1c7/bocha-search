@@ -1,6 +1,6 @@
 # 博查搜索 Skill
 
-给 AI 用的中文搜索 Skill，基于[博查开放平台](https://open.bocha.cn) API。
+给 AI 用的 "博查搜索 Skill"，基于[博查开放平台](https://open.bocha.cn) API。  
 
 ## 安装
 
@@ -26,3 +26,12 @@ export BOCHA_API_KEY="your-api-key"
 | [AI Search](docs/ai-search.md) | 混合搜索 + 模态卡（天气/股票/汇率等）+ 可选 AI 回答 |
 | [Rerank](docs/rerank.md) | 语义排序，用于 RAG 结果重排 |
 | [余额查询](docs/fund.md) | 查询账户剩余额度 |
+
+
+## 重要声明
+1. 本仓库的 bocha-search skill 不是官方发布的，官方在 https://github.com/BochaAI  
+截止至 2026 年 6 月 18 号，官方尚未发布 Skill，所以我花 5 分钟做了这个 Skill。   
+
+2. 我的目的是：方便在 Claude Code 里面使用博查进行搜索。
+
+3。本 Skill 基于 [博查官方开发文档](https://bocha-ai.feishu.cn/wiki/HmtOw1z6vik14Fkdu5uc9VaInBb)
